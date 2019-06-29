@@ -1,5 +1,5 @@
 # angelhack2019
-## School Watch
+## Project name: School Watch
 Real-time monitoring of the emotional well-being of students at school (for example, bullying) and alerts to their parents if necessary.
 
 ## About
